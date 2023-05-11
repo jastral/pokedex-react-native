@@ -1,0 +1,247 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<ViewManagerAdapter_ExpoLinearGradient
+  proxiedProperties={
+    {
+      "colors": [
+        4294949233,
+        4294949233,
+      ],
+      "endPoint": undefined,
+      "locations": undefined,
+      "startPoint": undefined,
+    }
+  }
+  style={
+    {
+      "backgroundColor": "white",
+      "borderRadius": 8,
+      "elevation": 4,
+      "flex": 1,
+      "height": 250,
+      "justifyContent": "center",
+      "margin": 16,
+      "overflow": "visible",
+      "padding": 8,
+      "shadowColor": "black",
+      "shadowOffset": {
+        "height": 2,
+        "width": 0,
+      },
+      "shadowOpacity": 0.25,
+      "shadowRadius": 8,
+    }
+  }
+>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": undefined,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      [
+        {
+          "flex": 1,
+        },
+        null,
+      ]
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "borderRadius": 8,
+          "flex": 1,
+          "justifyContent": "center",
+          "overflow": "hidden",
+          "padding": 16,
+        }
+      }
+    >
+      <Image
+        source={
+          {
+            "uri": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+          }
+        }
+        style={
+          {
+            "height": 150,
+            "width": 150,
+          }
+        }
+      />
+      <Text
+        style={
+          {
+            "fontSize": 18,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        CHARMANDER
+      </Text>
+      <Text
+        style={
+          {
+            "fontSize": 18,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        4
+      </Text>
+    </View>
+  </View>
+</ViewManagerAdapter_ExpoLinearGradient>
+`;
+
+exports[`renders correctly 2`] = `
+<ViewManagerAdapter_ExpoLinearGradient
+  proxiedProperties={
+    {
+      "colors": [
+        4289265560,
+        4292256484,
+      ],
+      "endPoint": undefined,
+      "locations": undefined,
+      "startPoint": undefined,
+    }
+  }
+  style={
+    {
+      "backgroundColor": "white",
+      "borderRadius": 8,
+      "elevation": 4,
+      "flex": 1,
+      "height": 250,
+      "justifyContent": "center",
+      "margin": 16,
+      "overflow": "visible",
+      "padding": 8,
+      "shadowColor": "black",
+      "shadowOffset": {
+        "height": 2,
+        "width": 0,
+      },
+      "shadowOpacity": 0.25,
+      "shadowRadius": 8,
+    }
+  }
+>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": undefined,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      [
+        {
+          "flex": 1,
+        },
+        null,
+      ]
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "borderRadius": 8,
+          "flex": 1,
+          "justifyContent": "center",
+          "overflow": "hidden",
+          "padding": 16,
+        }
+      }
+    >
+      <Image
+        source={
+          {
+            "uri": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+          }
+        }
+        style={
+          {
+            "height": 150,
+            "width": 150,
+          }
+        }
+      />
+      <Text
+        style={
+          {
+            "fontSize": 18,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        BULBASAUR
+      </Text>
+      <Text
+        style={
+          {
+            "fontSize": 18,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        1
+      </Text>
+    </View>
+  </View>
+</ViewManagerAdapter_ExpoLinearGradient>
+`;

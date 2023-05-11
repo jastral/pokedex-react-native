@@ -1,0 +1,138 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Checking Carousel component Rendering 1`] = `
+<View>
+  <View>
+    <Text
+      style={
+        {
+          "fontSize": 14,
+          "fontWeight": "bold",
+        }
+      }
+    >
+      HP
+      :
+    </Text>
+    <Text
+      style={
+        {
+          "fontSize": 14,
+        }
+      }
+    >
+      45
+    </Text>
+  </View>
+  <View>
+    <Text
+      style={
+        {
+          "fontSize": 14,
+          "fontWeight": "bold",
+        }
+      }
+    >
+      ATTACK
+      :
+    </Text>
+    <Text
+      style={
+        {
+          "fontSize": 14,
+        }
+      }
+    >
+      49
+    </Text>
+  </View>
+  <View>
+    <Text
+      style={
+        {
+          "fontSize": 14,
+          "fontWeight": "bold",
+        }
+      }
+    >
+      DEFENSE
+      :
+    </Text>
+    <Text
+      style={
+        {
+          "fontSize": 14,
+        }
+      }
+    >
+      49
+    </Text>
+  </View>
+  <View>
+    <Text
+      style={
+        {
+          "fontSize": 14,
+          "fontWeight": "bold",
+        }
+      }
+    >
+      SPECIAL-ATTACK
+      :
+    </Text>
+    <Text
+      style={
+        {
+          "fontSize": 14,
+        }
+      }
+    >
+      65
+    </Text>
+  </View>
+  <View>
+    <Text
+      style={
+        {
+          "fontSize": 14,
+          "fontWeight": "bold",
+        }
+      }
+    >
+      SPECIAL-DEFENSE
+      :
+    </Text>
+    <Text
+      style={
+        {
+          "fontSize": 14,
+        }
+      }
+    >
+      65
+    </Text>
+  </View>
+  <View>
+    <Text
+      style={
+        {
+          "fontSize": 14,
+          "fontWeight": "bold",
+        }
+      }
+    >
+      SPEED
+      :
+    </Text>
+    <Text
+      style={
+        {
+          "fontSize": 14,
+        }
+      }
+    >
+      45
+    </Text>
+  </View>
+</View>
+`;
